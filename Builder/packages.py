@@ -17,8 +17,8 @@ BASE_PACKAGES = [
 
 DEV_PACKAGES = [
     "timeshift", "pinta", "ghex", "keepassxc", "gufw", "python-pywal",
-    "bleachbit", "veracrypt", "homebank", "gtkhash", "gnome-firmware", "touche", "dconf-editor",
-    "neovim", "obs-studio", "tmux", "code", "deluge-gtk", "flameshot", "python-pip", "cloc"
+    "bleachbit", "veracrypt", "gtkhash", "gnome-firmware", "touche", "dconf-editor",
+    "obs-studio", "tmux", "code", "deluge-gtk", "flameshot", "python-pip", "cloc"
 ]
 
 AUR_PACKAGES = [
