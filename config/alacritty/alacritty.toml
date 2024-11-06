@@ -56,6 +56,10 @@ dynamic_title = true
 opacity = 1
 title = "Alacritty"
 
+[window.padding]
+x = 15
+y = 15
+
 [window.class]
 general = "Alacritty"
 instance = "Alacritty"
