@@ -40,7 +40,7 @@ super + e
 	thunar
 
 # Launch Applications
-super + shift + {f,p,t,c,v,i,x,q,k,l}
+super + shift + {f,p,t,c,v,i,x,q,k,l,w}
 	{firefox, \
 	pavucontrol, \
 	telegram-desktop, \
@@ -50,7 +50,8 @@ super + shift + {f,p,t,c,v,i,x,q,k,l}
 	sh $HOME/bin/xcolor-pick, \
 	sh $HOME/bin/bible, \
 	alacritty -e calcurse, \
-	sh $HOME/bin/screen-lock}
+	sh $HOME/bin/screen-lock, \
+	sh $HOME/bin/wifimenu}
      
 # Select window to close
 ctrl + super + alt + k
