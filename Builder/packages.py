@@ -11,13 +11,13 @@ BASE_PACKAGES = [
     "xfce4-settings", "zathura", "zathura-djvu", "zathura-pdf-mupdf",
     "cmake", "clang", "gzip", "imagemagick", "make", "openssh", "pulseaudio-bluetooth", "shellcheck",
     "vlc", "usbutils", "picom", "alsa-plugins", "alsa-tools", "alsa-utils", "ffmpeg",
-    "p7zip", "gparted", "sshfs", "xclip", "gpick", "wget", "ueberzug", "netctl", "light", "libreoffice",
+    "p7zip", "gparted", "sshfs", "xclip", "gpick", "wget", "ueberzug", "netctl", "light",
     "breeze", "vulkan-intel", "intel-ucode", "ttf-jetbrains-mono", "ttf-jetbrains-mono-nerd"
 ]
 
 DEV_PACKAGES = [
-    "timeshift", "pinta", "ghex", "keepassxc", "gufw", "python-pywal",
-    "bleachbit", "veracrypt", "gtkhash", "gnome-firmware", "touche", "dconf-editor",
+    "timeshift", "pinta", "gufw", "python-pywal",
+    "bleachbit", "gnome-firmware", "touche", "dconf-editor",
     "obs-studio", "tmux", "code", "deluge-gtk", "flameshot", "python-pip", "cloc"
 ]
 
