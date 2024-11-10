@@ -2,7 +2,7 @@ import os
 import packages
 
 from logger import Logger, LoggerStatus
-from creators.software import AurBuilder, FirefoxCustomize
+from creators.software import AurBuilder
 from creators.drivers import GraphicDrivers
 from creators.patches import PatchSystemBugs
 from creators.daemons import Daemons
