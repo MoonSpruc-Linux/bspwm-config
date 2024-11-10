@@ -11,14 +11,14 @@ BASE_PACKAGES = [
     "xfce4-settings", "zathura", "zathura-djvu", "zathura-pdf-mupdf",
     "cmake", "clang", "gzip", "imagemagick", "make", "openssh", "pulseaudio-bluetooth", "shellcheck",
     "vlc", "usbutils", "picom", "alsa-plugins", "alsa-tools", "alsa-utils", "ffmpeg",
-    "p7zip", "gparted", "sshfs", "xclip", "gpick", "wget", "ueberzug", "netctl", "light",
+    "p7zip", "gparted", "sshfs", "xclip", "gpick", "ueberzug", "netctl", "light",
     "breeze", "amd-ucode", "ttf-jetbrains-mono", "ttf-jetbrains-mono-nerd"
 ]
 
 DEV_PACKAGES = [
     "timeshift", "pinta", "gufw", "python-pywal",
-    "bleachbit", "gnome-firmware", "touche", "dconf-editor",
-    "obs-studio", "tmux", "code", "deluge-gtk", "flameshot", "python-pip", "cloc"
+    "bleachbit", "gnome-firmware", "dconf-editor",
+    "obs-studio", "tmux", "code", "deluge-gtk", "flameshot", "python-pip"
 ]
 
 AUR_PACKAGES = [
@@ -26,7 +26,7 @@ AUR_PACKAGES = [
 ]
 
 GNOME_OFFICIAL_TOOLS = [
-    "evince", "gnome-calculator", "gnome-disk-utility", "gucharmap",
+    "gnome-calculator", "gnome-disk-utility", "gucharmap",
     "gthumb", "gnome-clocks"
 ]
 
