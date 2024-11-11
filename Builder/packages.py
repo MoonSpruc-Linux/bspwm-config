@@ -1,17 +1,17 @@
 
 
 BASE_PACKAGES = [
-    "tumbler", "ffmpegthumbnailer", "lsd", "alacritty", "bat", "calc",
+    "tumbler", "ffmpegthumbnailer", "lsd", "alacritty", "calc",
     "automake", "blueman", "bluez", "bluez-utils", "dunst", "fakeroot", "feh", "firefox",
-    "fish", "dpkg", "gcc", "gedit", "git", "gnu-netcat", "htop", "btop", "nano", "lxappearance",
+    "fish", "dpkg", "gcc", "gedit", "git", "gnu-netcat", "htop", "btop", "lxappearance",
     "mat2", "mpv", "thunar", "neofetch", "network-manager-applet", "nitrogen",
-    "pamixer", "papirus-icon-theme", "pavucontrol", "polybar", "autoconf", "mpc", "pulseaudio",
+    "pamixer", "pavucontrol", "polybar", "autoconf", "pulseaudio",
     "pulseaudio-alsa", "python-pyalsa", "ranger", "redshift", "reflector", "rofi", "rofi-calc", "calcurse",
-    "rofi-emoji", "sudo", "slop", "tree", "unrar", "zip", "unzip", "uthash", "xarchiver",
+    "rofi-emoji", "sudo", "slop", "tree", "unrar", "zip", "unzip", "xarchiver",
     "xfce4-settings", "zathura", "zathura-djvu", "zathura-pdf-mupdf",
-    "cmake", "clang", "gzip", "imagemagick", "make", "openssh", "pulseaudio-bluetooth", "shellcheck",
+    "cmake", "clang", "gzip", "imagemagick", "make", "pulseaudio-bluetooth", "shellcheck",
     "vlc", "usbutils", "picom", "alsa-plugins", "alsa-tools", "alsa-utils", "ffmpeg",
-    "p7zip", "gparted", "sshfs", "xclip", "gpick", "ueberzug", "netctl", "light",
+    "p7zip", "gparted", "xclip", "gpick", "ueberzug", "netctl",
     "breeze", "amd-ucode", "ttf-jetbrains-mono", "ttf-jetbrains-mono-nerd"
 ]
 
