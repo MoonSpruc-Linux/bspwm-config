@@ -4,11 +4,11 @@ BASE_PACKAGES = [
     "tumbler", "lsd", "alacritty", "calc", "automake", "blueman", "bluez", "bluez-utils", "dunst", "fakeroot", 
     "feh", "firefox", "fish", "gcc", "git", "gnu-netcat", "htop", "btop", "lxappearance", "mpv", 
     "thunar", "neofetch", "network-manager-applet", "nitrogen", "pamixer", "pavucontrol", "polybar", 
-    "autoconf", "pulseaudio", "pulseaudio-alsa", "python-pyalsa", "ranger", "redshift", "reflector", 
-    "rofi", "rofi-calc", "calcurse", "rofi-emoji", "sudo", "slop", "tree", "xarchiver", 
-    "xfce4-settings", "zathura", "zathura-djvu", "zathura-pdf-mupdf", "cmake", "clang", "make", "pulseaudio-bluetooth", 
-    "shellcheck", "usbutils", "picom", "alsa-plugins", "alsa-tools", "alsa-utils", "gparted", "xclip", "gpick", 
-    "ueberzug", "netctl", "amd-ucode", "ttf-jetbrains-mono", "ttf-jetbrains-mono-nerd"
+    "autoconf", "ranger", "redshift", "reflector", "rofi", "rofi-calc", "calcurse", "rofi-emoji", 
+    "sudo", "slop", "tree", "xarchiver", "xfce4-settings", "zathura", "zathura-djvu", "zathura-pdf-mupdf", 
+    "cmake", "clang", "make", "shellcheck", "usbutils", "picom", "alsa-plugins", "alsa-tools", "alsa-utils", 
+    "gparted", "xclip", "gpick", "ueberzug", "netctl", "amd-ucode", "ttf-jetbrains-mono", "ttf-jetbrains-mono-nerd", 
+    "pipewire", "pipewire-alsa", "pipewire-pulse", "pipewire-jack", "wireplumber"
 ]
 
 DEV_PACKAGES = [
