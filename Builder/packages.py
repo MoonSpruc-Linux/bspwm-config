@@ -5,9 +5,9 @@ BASE_PACKAGES = [
     "feh", "firefox", "fish", "gcc", "git", "gnu-netcat", "htop", "btop", "lxappearance", "mpv", 
     "thunar", "neofetch", "network-manager-applet", "nitrogen", "pamixer", "pavucontrol", "polybar", 
     "autoconf", "pulseaudio", "pulseaudio-alsa", "python-pyalsa", "ranger", "redshift", "reflector", 
-    "rofi", "rofi-calc", "calcurse", "rofi-emoji", "sudo", "slop", "tree", "unrar", "zip", "unzip", "xarchiver", 
-    "xfce4-settings", "zathura", "zathura-djvu", "zathura-pdf-mupdf", "cmake", "clang", "gzip", "make", "pulseaudio-bluetooth", 
-    "shellcheck", "usbutils", "picom", "alsa-plugins", "alsa-tools", "alsa-utils", "p7zip", "gparted", "xclip", "gpick", 
+    "rofi", "rofi-calc", "calcurse", "rofi-emoji", "sudo", "slop", "tree", "xarchiver", 
+    "xfce4-settings", "zathura", "zathura-djvu", "zathura-pdf-mupdf", "cmake", "clang", "make", "pulseaudio-bluetooth", 
+    "shellcheck", "usbutils", "picom", "alsa-plugins", "alsa-tools", "alsa-utils", "gparted", "xclip", "gpick", 
     "ueberzug", "netctl", "amd-ucode", "ttf-jetbrains-mono", "ttf-jetbrains-mono-nerd"
 ]
 
