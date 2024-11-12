@@ -8,7 +8,7 @@ BASE_PACKAGES = [
     "sudo", "slop", "tree", "xarchiver", "xfce4-settings", "zathura", "zathura-djvu", "zathura-pdf-mupdf", 
     "cmake", "clang", "make", "shellcheck", "usbutils", "picom", "alsa-plugins", "alsa-tools", "alsa-utils", 
     "gparted", "xclip", "gpick", "ueberzug", "netctl", "amd-ucode", "ttf-jetbrains-mono", "ttf-jetbrains-mono-nerd", 
-    "pipewire", "pipewire-alsa", "pipewire-pulse", "pipewire-jack", "wireplumber"
+    "papirus-icon-theme", "pipewire", "pipewire-alsa", "pipewire-pulse", "pipewire-jack", "wireplumber"
 ]
 
 DEV_PACKAGES = [
