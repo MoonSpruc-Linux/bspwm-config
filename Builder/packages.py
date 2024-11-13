@@ -1,7 +1,7 @@
 
 
 BASE_PACKAGES = [
-    "tumbler", "lsd", "alacritty", "calc", "automake", "blueman", "bluez", "bluez-utils", "dunst", "fakeroot", 
+    "tumbler", "lsd", "alacritty", "automake", "blueman", "bluez", "bluez-utils", "dunst", "fakeroot", 
     "feh", "firefox", "fish", "gcc", "git", "htop", "btop", "lxappearance", "mpv", 
     "thunar", "neofetch", "network-manager-applet", "nitrogen", "pamixer", "pavucontrol", "polybar", 
     "autoconf", "ranger", "redshift", "reflector", "rofi", "rofi-calc", "calcurse", "rofi-emoji", 
