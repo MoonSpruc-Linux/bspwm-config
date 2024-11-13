@@ -2,13 +2,13 @@
 
 BASE_PACKAGES = [
     "tumbler", "lsd", "alacritty", "calc", "automake", "blueman", "bluez", "bluez-utils", "dunst", "fakeroot", 
-    "feh", "firefox", "fish", "gcc", "git", "gnu-netcat", "htop", "btop", "lxappearance", "mpv", 
+    "feh", "firefox", "fish", "gcc", "git", "htop", "btop", "lxappearance", "mpv", 
     "thunar", "neofetch", "network-manager-applet", "nitrogen", "pamixer", "pavucontrol", "polybar", 
     "autoconf", "ranger", "redshift", "reflector", "rofi", "rofi-calc", "calcurse", "rofi-emoji", 
-    "sudo", "slop", "tree", "xarchiver", "xfce4-settings", "zathura", "zathura-djvu", "zathura-pdf-mupdf", 
-    "cmake", "clang", "make", "shellcheck", "usbutils", "picom", "alsa-plugins", "alsa-tools", "alsa-utils", 
-    "gparted", "xclip", "gpick", "ueberzug", "netctl", "amd-ucode", "ttf-jetbrains-mono", "ttf-jetbrains-mono-nerd", 
-    "papirus-icon-theme", "pipewire", "pipewire-alsa", "pipewire-pulse", "pipewire-jack", "wireplumber"
+    "sudo", "slop", "tree", "xarchiver", "xfce4-settings", "cmake", "clang", "make", "shellcheck", "usbutils", 
+    "picom", "alsa-plugins", "alsa-tools", "alsa-utils", "xclip", "gpick", "ueberzug", "netctl", 
+    "amd-ucode", "ttf-jetbrains-mono", "ttf-jetbrains-mono-nerd", "papirus-icon-theme", 
+    "pipewire", "pipewire-alsa", "pipewire-pulse", "wireplumber"
 ]
 
 DEV_PACKAGES = [
@@ -21,6 +21,6 @@ AUR_PACKAGES = [
 ]
 
 GNOME_OFFICIAL_TOOLS = [
-    "gnome-disk-utility", "gucharmap", "gthumb", "gnome-clocks"
+    "gnome-disk-utility", "gthumb", "gnome-clocks"
 ]
 
