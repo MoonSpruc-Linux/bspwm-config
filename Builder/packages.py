@@ -2,7 +2,7 @@
 
 BASE_PACKAGES = [
     "tumbler", "lsd", "alacritty", "automake", "blueman", "bluez", "bluez-utils", "dunst", "fakeroot", 
-    "feh", "firefox", "fish", "gcc", "git", "htop", "btop", "lxappearance", "mpv", 
+    "feh", "firefox", "fish", "gcc", "git", "htop", "btop", "lxappearance", "mpv", "unzip", "zip",
     "thunar", "neofetch", "network-manager-applet", "nitrogen", "pamixer", "pavucontrol", "polybar", 
     "autoconf", "ranger", "redshift", "reflector", "rofi", "rofi-calc", "calcurse", "rofi-emoji", 
     "sudo", "slop", "tree", "xarchiver", "xfce4-settings", "cmake", "clang", "make", "shellcheck", "usbutils", 
