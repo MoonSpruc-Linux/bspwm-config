@@ -13,7 +13,7 @@ BASE_PACKAGES = [
 
 DEV_PACKAGES = [
     "timeshift", "pinta", "gufw", "python-pywal", "bleachbit", "gnome-firmware", "dconf-editor",
-    "obs-studio", "tmux", "code", "flameshot", "python-pip"
+    "obs-studio", "tmux", "flameshot", "python-pip"
 ]
 
 AUR_PACKAGES = [
